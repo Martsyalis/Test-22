@@ -27,6 +27,7 @@
     "eslint-plugin-promise": "^5.1.0"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^18.2.1"
+    "eslint-config-airbnb": "^18.2.1",
+    "express": "^4.17.1"
   }
 }
